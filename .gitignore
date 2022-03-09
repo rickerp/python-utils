@@ -1,0 +1,14 @@
+# caches
+__pycache__
+.*_cache
+
+# IDEs
+.vscode
+.idea
+
+# pdm
+__pypackages__
+.pdm.toml
+
+# OS
+.DS_Store
